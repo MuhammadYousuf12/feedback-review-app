@@ -6,3 +6,6 @@
 *.cc linguist-vendored=true
 *.h linguist-vendored=true
 *.swift linguist-vendored=true
+*.html linguist-vendored=true
+*.js linguist-vendored=true
+web/**/* linguist-vendored=true
